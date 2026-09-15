@@ -5,7 +5,7 @@ const CREW_NAME: &str = "the unnamed crew";
 const MOTTO: &str = "we r the worstt";
 
 fn main() {
-    println!("is this where i am supposed to write the motto", CREW_NAME);
+    println!("is this where i am supposed to write the motto", Worst_crew);
     println!();
     println!("Crew roster:");
 
