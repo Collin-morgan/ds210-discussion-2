@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+the best crew
 
 ## Members
 
-- _nobody has signed on yet_
+- Anthony Benavides
