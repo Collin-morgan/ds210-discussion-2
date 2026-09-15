@@ -5,7 +5,7 @@ const CREW_NAME: &str = "the unnamed crew";
 const MOTTO: &str = "we have not agreed on a motto";
 
 fn main() {
-    println!("=== {} ===", CREW_NAME);
+    println!("is this where i am supposed to write the motto", CREW_NAME);
     println!();
     println!("Crew roster:");
 
